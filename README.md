@@ -1,7 +1,8 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mary+%F0%9F%91%8B;Computer+Engineering+%40+uOttawa;embedded+systems+%C2%B7+full-stack)](https://github.com/marybits)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mary+%F0%9F%91%8B;Computer+Engineering+%40+uOttawa;embedded+systems+%C2%B7+full-stack">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=57606A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mary+%F0%9F%91%8B;Computer+Engineering+%40+uOttawa;embedded+systems+%C2%B7+full-stack" alt="Mary — Computer Engineering @ uOttawa">
+</picture>
 </div>
 
 **Computer Engineering @ uOttawa '29** · Ottawa, ON 🇨🇦 · Interested in **embedded systems & full-stack** opportunities
@@ -31,8 +32,6 @@ I build things at the intersection of **hardware and web**. Recently shipped a Q
 ---
 
 <div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/marybits/marybits/output/snake-dark.svg)
 
 📫 [LinkedIn](https://linkedin.com/in/maryaraujo) 
 

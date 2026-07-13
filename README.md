@@ -28,13 +28,6 @@ I build things at the intersection of **hardware and web**. Recently shipped a Q
 
 </div>
 
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/marybits/worldie/pull/2) in [marybits/worldie](https://github.com/marybits/worldie)
-2. 💪 Opened PR [#1](https://github.com/marybits/worldie/pull/1) in [marybits/worldie](https://github.com/marybits/worldie)
-<!--END_SECTION:activity-->
-
 ---
 
 <div align="center">

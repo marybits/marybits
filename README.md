@@ -17,6 +17,7 @@ I build things at the intersection of **hardware and web**. Recently shipped a Q
 |---------|-----------|-------|
 | 🛰️ [**Sentinel**](https://github.com/marybits/sentinel) | Resilient Arctic sensor monitoring — built at cuHacking 2026 | QNX 8.0 · Raspberry Pi 5 · ESP32 · Flask · React/Leaflet |
 | ⚽ [**Worldie**](https://github.com/marybits/worldie) | World Cup 2026 prediction game with live leaderboards ([live demo](https://worldie.onrender.com)) | MongoDB · Express · React · Node · JWT + OAuth |
+| 📊 [**uDash**](https://github.com/juliia2/udash) | Academic progress tracker — built at uOttaHack 8 ([live](https://u-dash.tech)) · *frontend by me* | React · Vite · Tailwind · FastAPI |
 | 🐾 [**PawTrack**](https://github.com/marybits/pawtrack) | Natural-language pet care logging powered by Gemini | React 19 · Express · Gemini API · MongoDB |
 | 📻 [**FM Radio Build**](https://github.com/marybits/fm-radio-rda5807) | Documented hardware build — soldering, RDA5807MP architecture | Through-hole soldering · PCB assembly |
 

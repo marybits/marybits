@@ -27,11 +27,10 @@ project_t projects[] = {
     { .name = "worldie",   .what = "World Cup 2026 predictions",  .stack = "MERN · JWT · OAuth" },
     { .name = "udash",     .what = "academic tracker (frontend)", .stack = "React · Vite · FastAPI" },
     { .name = "pawtrack",  .what = "AI pet care logging",         .stack = "React · Express · Gemini" },
-    { .name = "fm-radio",  .what = "hardware build log",          .stack = "soldering · RDA5807" },
 };
 ```
 
-→ [sentinel](https://github.com/marybits/sentinel) · [worldie](https://github.com/marybits/worldie) · [udash](https://github.com/juliia2/udash) · [pawtrack](https://github.com/marybits/pawtrack) · [fm-radio](https://github.com/marybits/fm-radio-rda5807)
+→ [sentinel](https://github.com/marybits/sentinel) · [worldie](https://github.com/marybits/worldie) · [udash](https://github.com/juliia2/udash) · [pawtrack](https://github.com/marybits/pawtrack) 
   
 ---
 
